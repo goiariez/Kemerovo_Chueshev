@@ -1,3 +1,7 @@
+def new_function():
+    print("Some realisation")
+
+
 def print_hi(name):
     print(f'Hi, {name}')
     print("zzz")
